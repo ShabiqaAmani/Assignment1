@@ -57,3 +57,7 @@ body{
 .keterangan{
     text-align: left;
 }
+
+.form-group{
+    margin-top: 20px;
+}
