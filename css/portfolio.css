@@ -61,3 +61,7 @@ body{
 .form-group{
     margin-top: 20px;
 }
+
+#formEdit{
+    display: none;
+}
